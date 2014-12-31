@@ -1,0 +1,11 @@
+{
+    "version":"1.0",
+	"name": "LocalStorageDemo",
+    "description": "Demonstrates how to store data by localStorage in Firefox OS Apps.",
+    "launch_path": "/index.html",
+	"developer": {
+        "name": "Mahfuz",
+        "url": ""
+    },
+    "default_locale": "en"
+}

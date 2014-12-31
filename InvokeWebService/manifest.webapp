@@ -1,0 +1,16 @@
+{
+    "version":"1.0",
+	"name": "WebService Demo",
+    "description": "Demonstrating the calling Web Service in Firefox OS",
+    "launch_path": "/index.html",
+   
+	"developer": {
+        "name": "Mahfuz",
+        "url": ""
+    },
+    "default_locale": "en",
+	"type": "privileged",
+    "permissions": {
+        "systemXHR": { "description": "Required to make Ajax Calls over the Network" }
+    }
+}

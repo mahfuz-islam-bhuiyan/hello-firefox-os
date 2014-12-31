@@ -1,0 +1,12 @@
+{
+    "version":"1.0",
+	"name": "Web Activities Demo",
+    "description": "Demonstrates how to use Web Activities in Firefox OS.",
+    "launch_path": "/index.html",
+    
+	"developer": {
+        "name": "Mahfuz Islam Bhuiyan",
+        "url": ""
+    },
+    "default_locale": "en"
+}

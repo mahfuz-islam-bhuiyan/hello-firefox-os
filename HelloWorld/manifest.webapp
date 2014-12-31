@@ -1,0 +1,17 @@
+{
+	"version":"1.0",
+	"name": "HelloFirefoxOS",
+	"description": "Demonstrate how a Hello World should look like.",
+	"launch_path": "/index.html",
+	"icons": {
+	"16": "/images/ic_016.png",
+	"32": "/images/ic_032.png",
+	"48": "/images/ic_048.png",
+	"128": "/images/ic_128.png"
+	},
+	"developer": {
+	"name": "Mahfuz Islam Bhuiyan",
+	"url": "http://www.someSiteName.com"
+	},
+	"default_locale": "en"
+} 
